@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fded1b9-f0ed-410a-a345-77217a1f6996" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Corpus/4.translate_filtered_words.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Corpus/negative.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Corpus/negative_filtered.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Corpus/positive.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Corpus/positive_filtered.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Corpus/concat_files.py" afterPath="$PROJECT_DIR$/Corpus/1.concat_files.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Corpus/filter-negative.py" afterPath="$PROJECT_DIR$/Corpus/3.filter-negative.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Corpus/filter-positive.py" afterPath="$PROJECT_DIR$/Corpus/2.filter-positive.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Train_Classifiers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sentiment_mod.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testing.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
