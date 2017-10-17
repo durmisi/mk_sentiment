@@ -34,3 +34,4 @@ with open('positive_filtered_translations.txt', 'w') as pft:
                     pft.write(translation.text+"\n")
             except:
                 pass
+
